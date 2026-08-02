@@ -1,0 +1,4 @@
+# Only needed for local smoke-testing of the transformation logic outside Databricks.
+# On Databricks, PySpark and Delta are already provided by the runtime - do not
+# install this file there.
+pyspark==3.5.1

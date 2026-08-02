@@ -200,20 +200,6 @@ During the internship, I learned:
 
 ## 💼 Major Projects
 
-### 📦 E-Commerce Order Analytics System
-
-An end-to-end analytics pipeline that includes:
-
-- Data Generation
-- Data Cleaning
-- SQLite Database
-- SQL Analytics
-- Automated Reports
-
-**Tech:** Python, Pandas, SQLite, SQL
-
----
-
 ### 💰 Shadow Revenue Detection System
 
 A data engineering project for detecting revenue leakage by validating transactions and identifying inconsistencies across datasets.

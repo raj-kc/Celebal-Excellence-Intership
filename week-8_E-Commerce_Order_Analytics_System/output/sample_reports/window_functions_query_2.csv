@@ -1,0 +1,362 @@
+category,product_name,total_revenue,rank_in_category
+Beauty,Moisturizer,2537092.58,1
+Beauty,Shampoo,2093866.5,2
+Beauty,Conditioner Plus,711375.44,3
+Beauty,Perfume White,596105.41,4
+Beauty,Hair Serum,483602.46,5
+Beauty,Face Wash,453303.09,6
+Beauty,Shampoo 64Gb,358010.55,7
+Beauty,Lipstick 2026 Edition,325113.3,8
+Beauty,Lipstick Blue,276048.05,9
+Beauty,Hair Serum 256Gb,105015.11,10
+Beauty,Moisturizer 2026 Edition,82984.91,11
+Beauty,Face Wash 64Gb,51879.88,12
+Beauty,Conditioner White,49756.41,13
+Beauty,Shampoo Pro,47173.73,14
+Beauty,Hair Serum White,42254.99,15
+Beauty,Lipstick,39328.36,16
+Beauty,Perfume Xl,38160.54,17
+Beauty,Face Wash Max,35732.01,18
+Beauty,Perfume Max,24577.19,19
+Beauty,Conditioner Xl,21781.23,20
+Beauty,Shampoo 2025 Edition,16120.39,21
+Beauty,Conditioner Red,14094.85,22
+Beauty,Lipstick 256Gb,6780.45,23
+Beauty,Lipstick 128Gb,1610.78,24
+Books,Think And Grow Rich 64Gb,985200.83,1
+Books,The Alchemist 2025 Edition,871315.53,2
+Books,Atomic Habits Red,724036.34,3
+Books,The Psychology Of Money 64Gb,700060.37,4
+Books,Clean Code,613777.06,5
+Books,Data Engineering Handbook Pro,574724.83,6
+Books,Think And Grow Rich,225077.84,7
+Books,Data Engineering Handbook,221991.81,8
+Books,Atomic Habits Blue,198997.11,9
+Books,Python Crash Course 2025 Edition,191949.51,10
+Books,The Alchemist Xl,159830.23,11
+Books,Deep Work Xl,145265.38,12
+Books,Clean Code Plus,67538.63,13
+Books,Python Crash Course 256Gb,59629.14,14
+Books,Clean Code Xl,55375.1,15
+Books,Ikigai,34823.95,16
+Books,Python Crash Course Xl,30747.53,17
+Books,Atomic Habits 2026 Edition,30110.09,18
+Books,Clean Code 64Gb,28754.26,19
+Books,Rich Dad Poor Dad,21319.28,20
+Books,Ikigai Xl,18972.47,21
+Books,Python Crash Course White,18164.94,22
+Books,Python Crash Course Max,17476.37,23
+Books,Clean Code Max,17323.12,24
+Books,Rich Dad Poor Dad 256Gb,17071.23,25
+Books,Python Crash Course Plus,14415.11,26
+Books,Think And Grow Rich White,11676.73,27
+Books,Ikigai Plus,10229.13,28
+Books,The Psychology Of Money Max,9975.7,29
+Books,Think And Grow Rich 2026 Edition,9400.89,30
+Books,Think And Grow Rich Xl,8633.13,31
+Books,Python Crash Course Pro,6227.32,32
+Books,Python Crash Course,5510.74,33
+Books,The Alchemist Red,4495.17,34
+Books,Data Engineering Handbook White,2495.78,35
+Books,Ikigai Blue,2465.55,36
+Books,The Alchemist 256Gb,1152.13,37
+Clothing,Track Pants,5633506.25,1
+Clothing,Track Pants 2026 Edition,3864906.31,2
+Clothing,Puma T-Shirt,3545704.55,3
+Clothing,Levis Jeans,3374375.23,4
+Clothing,Levis Jeans Max,1917403.57,5
+Clothing,Nike Shoes Blue,1516533.4,6
+Clothing,Hoodie Max,1238861.31,7
+Clothing,Puma T-Shirt White,1212165.26,8
+Clothing,Casual Shirt Black,967129.84,9
+Clothing,Levis Jeans Black,937202.08,10
+Clothing,Nike Shoes 128Gb,922541.97,11
+Clothing,Kurta,910161.32,12
+Clothing,Puma T-Shirt 512Gb,892216.5,13
+Clothing,Adidas Shoes 64Gb,880488.81,14
+Clothing,Adidas Shoes,819589.18,15
+Clothing,Nike Shoes Max,725768.06,16
+Clothing,Adidas Shoes Red,701904.89,17
+Clothing,Kurta 2025 Edition,699707.51,18
+Clothing,Puma T-Shirt 2026 Edition,647408.14,19
+Clothing,Adidas Shoes Pro,606746.96,20
+Clothing,Formal Shirt Red,578329.73,21
+Clothing,Jacket,573195.37,22
+Clothing,Formal Shirt 128Gb,523581.9,23
+Clothing,Formal Shirt Xl,489036.14,24
+Clothing,Adidas Shoes 2025 Edition,457384.54,25
+Clothing,Kurta Pro,448423.72,26
+Clothing,Levis Jeans 64Gb,441496.91,27
+Clothing,Hoodie 128Gb,338568.1,28
+Clothing,Casual Shirt Xl,328439.18,29
+Clothing,Jacket Blue,319355.83,30
+Clothing,Puma T-Shirt Pro,255831.68,31
+Clothing,Jacket Xl,254975.85,32
+Clothing,Adidas Shoes 128Gb,215303.2,33
+Clothing,Adidas Shoes Max,205732.48,34
+Clothing,Levis Jeans 128Gb,205000.07,35
+Clothing,Adidas Shoes Black,179470.75,36
+Clothing,Hoodie,150031.95,37
+Clothing,Casual Shirt Red,148071.47,38
+Clothing,Track Pants Xl,146311.78,39
+Clothing,Casual Shirt,145903.23,40
+Clothing,Puma T-Shirt Blue,143318.82,41
+Clothing,Casual Shirt Plus,130771.17,42
+Clothing,Nike Shoes,126099.93,43
+Clothing,Levis Jeans 512Gb,125857.78,44
+Clothing,Formal Shirt 512Gb,124124.95,45
+Clothing,Jacket 256Gb,99449.36,46
+Clothing,Adidas Shoes 256Gb,97763.66,47
+Clothing,Puma T-Shirt 2025 Edition,77393.94,48
+Clothing,Kurta 256Gb,75447.25,49
+Clothing,Track Pants Black,72872.51,50
+Clothing,Kurta 128Gb,71601.24,51
+Clothing,Kurta White,64614.69,52
+Clothing,Hoodie Blue,56565.4,53
+Clothing,Nike Shoes White,52137.68,54
+Clothing,Formal Shirt Black,49758.53,55
+Clothing,Adidas Shoes 512Gb,46384.4,56
+Clothing,Levis Jeans Red,43576.87,57
+Clothing,Jacket Max,43360.61,58
+Clothing,Track Pants Pro,38277.49,59
+Clothing,Hoodie 2026 Edition,36874.98,60
+Clothing,Track Pants 64Gb,31315.38,61
+Clothing,Kurta Xl,27103.3,62
+Clothing,Nike Shoes Xl,23921.75,63
+Clothing,Jacket White,23012.34,64
+Clothing,Adidas Shoes Xl,22120.49,65
+Clothing,Hoodie White,18770.44,66
+Clothing,Kurta Max,15416.97,67
+Clothing,Kurta Red,14718.15,68
+Clothing,Adidas Shoes Plus,6812.19,69
+Clothing,Formal Shirt White,4615.41,70
+Clothing,Casual Shirt 2025 Edition,4499.15,71
+Clothing,Jacket Black,2450.4,72
+Electronics,Wireless Mouse Plus,86096689.0,1
+Electronics,Realme Pad 2025 Edition,74567054.27,2
+Electronics,Iphone 15 64Gb,73129843.14,3
+Electronics,Samsung Galaxy S24 64Gb,69319855.42,4
+Electronics,Samsung Galaxy S24,62585033.92,5
+Electronics,Oneplus Nord,60034832.26,6
+Electronics,Sony Headphones Xl,59876460.18,7
+Electronics,Smart Watch,55096887.71,8
+Electronics,Wireless Mouse,54252123.18,9
+Electronics,Realme Pad Blue,46815904.59,10
+Electronics,Oneplus Nord 256Gb,38940664.49,11
+Electronics,Boat Speaker,31227579.87,12
+Electronics,Smart Watch 2025 Edition,27303780.03,13
+Electronics,Canon Camera Pro,26592283.1,14
+Electronics,Smart Watch Black,26062146.8,15
+Electronics,Mechanical Keyboard Pro,24653695.13,16
+Electronics,Oneplus Nord Xl,20997749.19,17
+Electronics,Smart Watch 512Gb,20353092.4,18
+Electronics,Printer Pro,19110850.18,19
+Electronics,Realme Pad,18589326.98,20
+Electronics,Hp Pavilion 128Gb,18388124.59,21
+Electronics,Printer,18198291.37,22
+Electronics,Hp Pavilion,17620118.23,23
+Electronics,Iphone 15 Max,17203713.64,24
+Electronics,Samsung Galaxy S24 2026 Edition,17069197.16,25
+Electronics,Wireless Mouse White,15499201.67,26
+Electronics,Sony Headphones White,15475641.54,27
+Electronics,Realme Pad 256Gb,14639348.38,28
+Electronics,Realme Pad 128Gb,13853938.65,29
+Electronics,Samsung Galaxy S24 512Gb,13421340.33,30
+Electronics,Iphone 15 Black,12770233.16,31
+Electronics,Macbook Air,12194991.6,32
+Electronics,Monitor Plus,11626747.97,33
+Electronics,Mechanical Keyboard 128Gb,11240988.11,34
+Electronics,Canon Camera,10436734.29,35
+Electronics,Samsung Galaxy S24 Red,10144596.19,36
+Electronics,Hp Pavilion 2026 Edition,7592968.3,37
+Electronics,Macbook Air 2025 Edition,7192239.08,38
+Electronics,Wireless Mouse 64Gb,6513393.26,39
+Electronics,Dell Inspiron Black,6292543.25,40
+Electronics,Macbook Air Blue,6032667.77,41
+Electronics,Realme Pad 2026 Edition,5700522.18,42
+Electronics,Macbook Air 64Gb,4918139.47,43
+Electronics,Dell Inspiron,4582170.75,44
+Electronics,Samsung Galaxy S24 Pro,4497423.76,45
+Electronics,Mechanical Keyboard,4497338.37,46
+Electronics,Canon Camera 256Gb,4298553.99,47
+Electronics,Iphone 15 512Gb,3846717.2,48
+Electronics,Printer 256Gb,3793481.53,49
+Electronics,Mechanical Keyboard 64Gb,3285651.99,50
+Electronics,Smart Watch Blue,3132060.3,51
+Electronics,Realme Pad White,2889072.92,52
+Electronics,Iphone 15,2663399.19,53
+Electronics,Printer Red,2542880.23,54
+Electronics,Dell Inspiron 512Gb,2489156.89,55
+Electronics,Smart Watch Max,2483239.75,56
+Electronics,Realme Pad Plus,2432954.65,57
+Electronics,Monitor 512Gb,2425383.4,58
+Electronics,Dell Inspiron 256Gb,2374056.48,59
+Electronics,Sony Headphones Red,2262791.2,60
+Electronics,Monitor Black,2242605.65,61
+Electronics,Mechanical Keyboard 256Gb,2188966.75,62
+Electronics,Hp Pavilion Pro,1703195.27,63
+Electronics,Realme Pad Max,1464495.59,64
+Electronics,Mechanical Keyboard Red,1347868.32,65
+Electronics,Boat Speaker 256Gb,1291342.91,66
+Electronics,Sony Headphones Black,1281278.73,67
+Electronics,Oneplus Nord 64Gb,1236307.71,68
+Electronics,Monitor,1233003.83,69
+Electronics,Iphone 15 128Gb,1163763.82,70
+Electronics,Sony Headphones,1145837.07,71
+Electronics,Dell Inspiron Pro,1067615.86,72
+Electronics,Mechanical Keyboard Xl,768966.39,73
+Electronics,Macbook Air 128Gb,723139.34,74
+Electronics,Canon Camera Red,719076.63,75
+Electronics,Macbook Air White,698295.2,76
+Electronics,Hp Pavilion Max,634599.53,77
+Electronics,Hp Pavilion 2025 Edition,617109.88,78
+Electronics,Printer 2026 Edition,605744.48,79
+Electronics,Macbook Air Red,518618.22,80
+Electronics,Dell Inspiron Blue,485106.08,81
+Electronics,Oneplus Nord Pro,428690.59,82
+Electronics,Canon Camera 2026 Edition,407611.71,83
+Electronics,Realme Pad Black,333983.67,84
+Electronics,Samsung Galaxy S24 Blue,321904.34,85
+Electronics,Canon Camera Blue,317377.86,86
+Electronics,Dell Inspiron Plus,307328.9,87
+Electronics,Hp Pavilion Red,296813.26,88
+Electronics,Smart Watch 2026 Edition,286995.84,89
+Electronics,Wireless Mouse 2026 Edition,274334.63,90
+Electronics,Printer 2025 Edition,142560.65,91
+Electronics,Wireless Mouse 128Gb,106445.15,92
+Electronics,Oneplus Nord Max,68704.06,93
+Grocery,Cooking Oil,799445.79,1
+Grocery,Pasta 128Gb,486994.74,2
+Grocery,Milk,353588.24,3
+Grocery,Biscuits,214864.98,4
+Grocery,Chocolate Blue,179129.26,5
+Grocery,Rice,173346.04,6
+Grocery,Juice Plus,164066.45,7
+Grocery,Biscuits 2026 Edition,159540.09,8
+Grocery,Tea 2025 Edition,157410.95,9
+Grocery,Biscuits 2025 Edition,137597.94,10
+Grocery,Sugar,121331.72,11
+Grocery,Tea,106985.87,12
+Grocery,Rice Max,76637.39,13
+Grocery,Coffee 512Gb,75944.31,14
+Grocery,Sugar Max,75259.96,15
+Grocery,Coffee Max,53239.87,16
+Grocery,Cooking Oil 256Gb,41395.53,17
+Grocery,Coffee Plus,38610.11,18
+Grocery,Biscuits Blue,32990.4,19
+Grocery,Chocolate,29858.7,20
+Grocery,Rice 2026 Edition,29238.09,21
+Grocery,Biscuits 512Gb,28670.67,22
+Grocery,Milk Plus,26057.75,23
+Grocery,Pasta 2026 Edition,24749.05,24
+Grocery,Sugar 256Gb,21258.89,25
+Grocery,Milk Black,17586.61,26
+Grocery,Biscuits Black,16727.45,27
+Grocery,Juice,16453.02,28
+Grocery,Juice White,14905.29,29
+Grocery,Pasta,14483.87,30
+Grocery,Biscuits Xl,14309.04,31
+Grocery,Chocolate 64Gb,11740.86,32
+Grocery,Coffee 128Gb,11650.06,33
+Grocery,Tea White,10832.42,34
+Grocery,Sugar Pro,10245.58,35
+Grocery,Cooking Oil Black,9735.55,36
+Grocery,Coffee,8798.45,37
+Grocery,Pasta Max,8446.95,38
+Grocery,Tea Blue,8409.57,39
+Grocery,Cooking Oil Max,7667.34,40
+Grocery,Biscuits Plus,7652.28,41
+Grocery,Sugar Blue,6415.77,42
+Grocery,Rice Black,6237.46,43
+Grocery,Rice 2025 Edition,5906.24,44
+Grocery,Milk White,5869.56,45
+Grocery,Milk 256Gb,5249.07,46
+Grocery,Sugar 2025 Edition,4876.66,47
+Grocery,Sugar 128Gb,3752.28,48
+Grocery,Biscuits Pro,1900.82,49
+Grocery,Sugar Red,1379.31,50
+Grocery,Cooking Oil Plus,1212.41,51
+Grocery,Coffee Xl,695.71,52
+Grocery,Milk 512Gb,386.56,53
+Grocery,Sugar 2026 Edition,374.8,54
+Home,Dining Table,30467082.29,1
+Home,Curtains,25979752.78,2
+Home,Pressure Cooker 256Gb,19546945.52,3
+Home,Bed Sheet 128Gb,13474709.87,4
+Home,Sofa,9109080.85,5
+Home,Water Bottle 128Gb,5785606.74,6
+Home,Led Lamp 2025 Edition,5185462.63,7
+Home,Mixer Grinder Plus,4623138.56,8
+Home,Water Bottle Pro,4504341.08,9
+Home,Wall Clock 64Gb,3245067.67,10
+Home,Sofa Xl,2658721.19,11
+Home,Curtains Red,2390428.98,12
+Home,Bed Sheet Max,2126921.54,13
+Home,Mixer Grinder 2025 Edition,1945984.66,14
+Home,Office Chair,1898052.97,15
+Home,Dining Table 64Gb,1849945.78,16
+Home,Wall Clock 256Gb,1744442.06,17
+Home,Dining Table 512Gb,1352692.54,18
+Home,Mixer Grinder,1302690.47,19
+Home,Dining Table 128Gb,1211048.38,20
+Home,Bed Sheet White,1032184.06,21
+Home,Water Bottle,977543.1,22
+Home,Wall Clock Max,670125.01,23
+Home,Pressure Cooker,668298.59,24
+Home,Wall Clock,614022.0,25
+Home,Curtains Blue,577054.6,26
+Home,Led Lamp,558400.66,27
+Home,Water Bottle Red,538497.9,28
+Home,Office Chair Red,497910.74,29
+Home,Led Lamp Max,417185.89,30
+Home,Mixer Grinder Xl,379442.86,31
+Home,Bed Sheet 256Gb,368512.97,32
+Home,Pressure Cooker Black,332205.03,33
+Home,Bed Sheet,296180.67,34
+Home,Pressure Cooker White,274753.88,35
+Home,Bed Sheet Pro,254454.62,36
+Home,Office Chair Max,229781.15,37
+Home,Curtains 256Gb,196983.86,38
+Home,Sofa Max,195406.39,39
+Home,Curtains Xl,180155.94,40
+Home,Mixer Grinder Red,163384.51,41
+Home,Led Lamp 64Gb,151022.81,42
+Home,Led Lamp Xl,84905.57,43
+Home,Dining Table Xl,77527.85,44
+Home,Sofa 2026 Edition,66498.75,45
+Home,Pressure Cooker 128Gb,38836.1,46
+Home,Bed Sheet Xl,38165.29,47
+Home,Bed Sheet Black,22586.4,48
+Home,Dining Table White,11089.44,49
+Home,Wall Clock Plus,7137.26,50
+Sports,Badminton Racket Blue,5985361.96,1
+Sports,Gym Gloves Blue,2721561.07,2
+Sports,Skipping Rope,2071567.37,3
+Sports,Football Black,1858210.29,4
+Sports,Football Red,1838550.93,5
+Sports,Football 256Gb,1683763.7,6
+Sports,Helmet Plus,1325831.73,7
+Sports,Skipping Rope 64Gb,1173132.73,8
+Sports,Tennis Ball Black,1168794.02,9
+Sports,Cricket Bat Pro,1144510.63,10
+Sports,Football,808526.6,11
+Sports,Football Plus,456215.04,12
+Sports,Cricket Bat,451039.23,13
+Sports,Gym Gloves 2025 Edition,320539.33,14
+Sports,Skipping Rope 2026 Edition,320103.21,15
+Sports,Badminton Racket White,312114.41,16
+Sports,Yoga Mat Pro,274173.42,17
+Sports,Skipping Rope Plus,270388.95,18
+Sports,Tennis Ball 512Gb,237315.26,19
+Sports,Helmet,187583.41,20
+Sports,Football 2026 Edition,187113.9,21
+Sports,Badminton Racket Red,185987.61,22
+Sports,Gym Gloves,123203.84,23
+Sports,Cricket Bat White,106851.39,24
+Sports,Yoga Mat,66257.5,25
+Sports,Yoga Mat 256Gb,62269.45,26
+Sports,Tennis Ball,49218.66,27
+Sports,Skipping Rope 128Gb,45717.95,28
+Sports,Football Pro,44229.42,29
+Sports,Cricket Bat Red,15627.41,30
+Sports,Gym Gloves Plus,11093.97,31

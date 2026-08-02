@@ -1,0 +1,551 @@
+product_id,product_name,category,subcategory,cost_price
+P00001,Samsung Galaxy S24 Blue,Electronics,Accessories,9428.41
+P00002,MacBook Air,Electronics,Accessories,30616.87
+P00003,HP Pavilion,Electronics,Audio,82046.09
+P00004,MacBook Air Max,Electronics,Laptops,81488.03
+P00005,OnePlus Nord XL,Electronics,Laptops,35044.92
+P00006,OnePlus Nord,Electronics,Tablets,26853.08
+P00007,Printer,Electronics,Laptops,28795.48
+P00008,Monitor Plus,Electronics,Printers,13517.36
+P00009,Realme Pad 2026 Edition,Electronics,Smartphones,101882.86
+P00010,Printer,Electronics,Audio,22598.33
+P00011,Mechanical Keyboard 64GB,Electronics,Audio,57815.75
+P00012,Smart Watch,Electronics,Smartphones,84030.75
+P00013,HP Pavilion 128GB,Electronics,Accessories,103531.57
+P00014,Realme Pad 256GB,Electronics,Laptops,50755.88
+P00015,Canon Camera 256GB,Electronics,Cameras,28045.16
+P00016,Boat Speaker,Electronics,Printers,115130.43
+P00017,Canon Camera 2026 Edition,Electronics,Accessories,86690.79
+P00018,Realme Pad 128GB,Electronics,Smartphones,26483.71
+P00019,Wireless Mouse White,Electronics,Accessories,111875.87
+P00020,Monitor Plus,Electronics,Accessories,78263.97
+P00021,Sony Headphones Red,Electronics,Audio,106844.19
+P00022,Dell Inspiron,Electronics,Tablets,51080.53
+P00023,iPhone 15 512GB,Electronics,Cameras,35529.68
+P00024,Canon Camera,Electronics,Cameras,70760.84
+P00025,Samsung Galaxy S24 512GB,Electronics,Cameras,84323.07
+P00026,iPhone 15,Electronics,Smartphones,3942.7
+P00027,MacBook Air 128GB,Electronics,Audio,37676.98
+P00028,DELL INSPIRON 256GB,Electronics,Printers,109900.47
+P00029,Printer Red,Electronics,Cameras,65083.08
+P00030,Printer Pro,Electronics,Accessories,37711.63
+P00031,Canon Camera Blue,Electronics,Tablets,2058.25
+P00032,MacBook Air 64GB,Electronics,Audio,113677.34
+P00033,MACBOOK AIR 2025 EDITION,Electronics,Laptops,49878.92
+P00034,Wireless Mouse 2026 Edition,Electronics,Tablets,10241.8
+P00035,Realme Pad,Electronics,Tablets,78096.08
+P00036,iPhone 15 Black,Electronics,Audio,74433.35
+P00037, Samsung Galaxy S24 Pro,Electronics,Tablets,32888.06
+P00038,Dell Inspiron 512GB,Electronics,Tablets,94458.46
+P00039,Samsung Galaxy S24 2026 Edition,Electronics,Laptops,7479.77
+P00040,HP Pavilion,Electronics,Audio,99527.64
+P00041,Mechanical Keyboard,Electronics,Smartphones,24542.24
+P00042,HP Pavilion Max,Electronics,Tablets,19706.48
+P00043,iPhone 15 Max,Electronics,Tablets,106592.33
+P00044,Smart Watch 64GB,Electronics,Tablets,70495.87
+P00045,Realme Pad,Electronics,Accessories,19275.04
+P00046,Smart Watch 2025 Edition,Electronics,Smartphones,43177.71
+P00047,Canon Camera Pro,Electronics,Printers,42200.27
+P00048,Boat Speaker 256GB,Electronics,Smartphones,58648.01
+P00049,HP Pavilion Pro,Electronics,Cameras,56632.65
+P00050,Dell Inspiron 256GB,Electronics,Printers,32191.23
+P00051,Boat Speaker,Electronics,Accessories,102934.05
+P00052,Smart Watch,Electronics,Laptops,63269.12
+P00053,Sony Headphones White,Electronics,Accessories,79339.81
+P00054,Samsung Galaxy S24 Red,Electronics,Smartphones,68864.65
+P00055,Wireless Mouse 64GB,Electronics,Accessories,86367.15
+P00056, Printer,Electronics,Tablets,67315.97
+P00057,Wireless Mouse Plus,Electronics,Smartphones,88328.6
+P00058,OnePlus Nord XL,Electronics,Audio,23383.68
+P00059,Dell Inspiron Pro,Electronics,Smartphones,92140.98
+P00060,Boat Speaker,Electronics,Laptops,66355.88
+P00061,Realme Pad White,Electronics,Accessories,118982.39
+P00062,Boat Speaker,Electronics,Laptops,67926.85
+P00063,MacBook Air Red,Electronics,Audio,823.32
+P00064,Dell Inspiron,Electronics,Tablets,118139.82
+P00065,Wireless Mouse,Electronics,Accessories,67113.71
+P00066,Sony Headphones Black,Electronics,Accessories,30582.94
+P00067,Realme Pad,Electronics,Cameras,39503.29
+P00068,Wireless Mouse 128GB,Electronics,Tablets,5254.69
+P00069,Printer,Electronics,Printers,52569.08
+P00070,Wireless Mouse Plus,Electronics,Cameras,93468.3
+P00071,OnePlus Nord White,Electronics,Laptops,19061.14
+P00072,Mechanical Keyboard Pro,Electronics,Audio,35342.14
+P00073,Realme Pad,Electronics,Tablets,10941.42
+P00074,Dell Inspiron 512GB,Electronics,Cameras,68902.62
+P00075,HP Pavilion 2025 Edition,Electronics,Cameras,110957.26
+P00076,Sony Headphones White,Electronics,Smartphones,92546.01
+P00077,Mechanical Keyboard 256GB,Electronics,Printers,28631.96
+P00078,iPhone 15 64GB,Electronics,Accessories,111266.18
+P00079,Wireless Mouse,Electronics,Audio,3511.58
+P00080,OnePlus Nord,Electronics,Accessories,87806.89
+P00081,Realme Pad,Electronics,Tablets,21102.1
+P00082,SAMSUNG GALAXY S24 64GB,Electronics,Cameras,102368.29
+P00083,Monitor,Electronics,Audio,61418.01
+P00084,Realme Pad 256GB,Electronics,Audio,67633.95
+P00085,MacBook Air Blue,Electronics,Smartphones,42136.16
+P00086,OnePlus Nord 64GB,Electronics,Audio,106935.93
+P00087,MacBook Air White,Electronics,Cameras,17161.47
+P00088,Monitor 512GB,Electronics,Accessories,19007.7
+P00089,OnePlus Nord Max,Electronics,Accessories,82338.6
+P00090,Printer 256GB,Electronics,Printers,18102.17
+P00091,OnePlus Nord XL,Electronics,Tablets,100871.08
+P00092,Boat Speaker,Electronics,Cameras,112105.21
+P00093,Mechanical Keyboard 256GB,Electronics,Printers,118325.91
+P00094, Realme Pad Max,Electronics,Cameras,93755.29
+P00095,Smart Watch 2026 Edition,Electronics,Audio,17191.52
+P00096,Samsung Galaxy S24,Electronics,Laptops,89290.11
+P00097,Printer,Electronics,Accessories,59201.19
+P00098,Boat Speaker,Electronics,Printers,46140.6
+P00099,Realme Pad Max,Electronics,Printers,5390.63
+P00100,Printer,Electronics,Audio,118072.61
+P00101,Samsung Galaxy S24 Red,Electronics,Tablets,93022.3
+P00102,Printer Pro,Electronics,Audio,99723.31
+P00103,Mechanical Keyboard XL,Electronics,Audio,50096.27
+P00104,Wireless Mouse,Electronics,Smartphones,30609.81
+P00105,Wireless Mouse,Electronics,Cameras,54368.29
+P00106,Mechanical Keyboard,Electronics,Laptops,45938.49
+P00107,Realme Pad,Electronics,Laptops,104363.17
+P00108,MacBook Air,Electronics,Tablets,75473.18
+P00109,realme pad,Electronics,Printers,60238.16
+P00110,HP Pavilion Red,Electronics,Audio,10265.07
+P00111,Realme Pad 2026 Edition,Electronics,Smartphones,22832.93
+P00112,Samsung Galaxy S24 2026 Edition,Electronics,Tablets,110509.86
+P00113,Smart Watch Max,Electronics,Accessories,69016.08
+P00114,Sony Headphones,Electronics,Tablets,39280.36
+P00115,Monitor Black,Electronics,Smartphones,83598.64
+P00116,Wireless Mouse 64GB,Electronics,Cameras,117538.51
+P00117,Realme Pad,Electronics,Tablets,51704.79
+P00118,Realme Pad 256GB,Electronics,Audio,62748.93
+P00119,Realme Pad Black,Electronics,Smartphones,14890.29
+P00120,HP Pavilion,Electronics,Audio,6222.67
+P00121,Smart Watch Black,Electronics,Smartphones,37486.49
+P00122,Smart Watch Blue,Electronics,Accessories,115245.45
+P00123,Printer Red,Electronics,Cameras,16981.86
+P00124,Printer 2025 Edition,Electronics,Cameras,7477.86
+P00125,OnePlus Nord 512GB,Electronics,Tablets,96104.61
+P00126,MacBook Air,Electronics,Audio,75480.09
+P00127,Realme Pad 2025 Edition,Electronics,Cameras,103052.08
+P00128,Printer Red,Electronics,Tablets,26563.87
+P00129,Mechanical Keyboard 128GB,Electronics,Smartphones,96043.81
+P00130,Canon Camera,Electronics,Printers,39818.68
+P00131,OnePlus Nord 256GB,Electronics,Smartphones,55556.71
+P00132,Printer 2026 Edition,Electronics,Smartphones,40528.14
+P00133,Wireless Mouse Plus,Electronics,Cameras,107142.56
+P00134,Sony Headphones,Electronics,Tablets,18599.03
+P00135,OnePlus Nord Pro,Electronics,Tablets,33109.41
+P00136,Dell Inspiron Plus,Electronics,Accessories,53682.8
+P00137,iPhone 15 128GB,Electronics,Laptops,84797.57
+P00138,Canon Camera Black,Electronics,Laptops,85777.52
+P00139,Mechanical Keyboard,Electronics,Smartphones,97691.84
+P00140,Smart Watch 2025 Edition,Electronics,Laptops,113735.83
+P00141,Sony Headphones XL,Electronics,Tablets,94822.42
+P00142,Canon Camera Red,Electronics,Laptops,34445.08
+P00143,Boat Speaker,Electronics,Tablets,67093.06
+P00144,Realme Pad Plus,Electronics,Laptops,116887.89
+P00145,Realme Pad Blue,Electronics,Tablets,65707.6
+P00146,Printer,Electronics,Smartphones,71385.85
+P00147, Dell Inspiron Blue,Electronics,Cameras,97836.75
+P00148,Smart Watch 512GB,Electronics,Accessories,108468.12
+P00149,Dell Inspiron Black,Electronics,Accessories,54101.44
+P00150,Mechanical Keyboard,Electronics,Audio,86360.71
+P00151,Realme Pad,Electronics,Laptops,102418.62
+P00152,Samsung Galaxy S24,Electronics,Tablets,13876.04
+P00153,Realme Pad White,Electronics,Audio,46282.55
+P00154,HP Pavilion 2026 Edition,Electronics,Printers,50534.47
+P00155,Samsung Galaxy S24 64GB,Electronics,Audio,79224.86
+P00156,Mechanical Keyboard Red,Electronics,Cameras,72848.0
+P00157,OnePlus Nord,Electronics,Laptops,22946.29
+P00158,HP Pavilion,Electronics,Accessories,69501.2
+P00159,Sony Headphones Red,Electronics,Smartphones,17736.83
+P00160,Mechanical Keyboard Pro,Electronics,Smartphones,30031.57
+P00161,Track Pants,Clothing,Men,5440.79
+P00162,Jacket White,Clothing,Kids,1877.41
+P00163,Kurta Max,Clothing,Women,3522.59
+P00164,Nike Shoes 128GB,Clothing,Men,5138.38
+P00165,Formal Shirt 128GB,Clothing,Winter Wear,4486.01
+P00166,Puma T-Shirt 2025 Edition,Clothing,Men,2188.52
+P00167,Levis Jeans,Clothing,Footwear,4668.13
+P00168,Puma T-Shirt 2026 Edition,Clothing,Sportswear,1733.49
+P00169,Jacket XL,Clothing,Winter Wear,1555.24
+P00170,track pants,Clothing,Footwear,4135.26
+P00171,Track Pants 2026 Edition,Clothing,Sportswear,5178.46
+P00172,Kurta 2025 Edition,Clothing,Women,4459.02
+P00173,Levis Jeans 64GB,Clothing,Men,269.38
+P00174,Puma T-Shirt,Clothing,Men,337.46
+P00175,Puma T-Shirt,Clothing,Sportswear,5755.21
+P00176,Kurta,Clothing,Men,4234.79
+P00177,Jacket,Clothing,Footwear,4214.88
+P00178,Adidas Shoes 64GB,Clothing,Kids,5976.56
+P00179,Adidas Shoes 512GB,Clothing,Women,3943.8
+P00180,Kurta Red,Clothing,Men,402.19
+P00181,Nike Shoes,Clothing,Sportswear,205.03
+P00182,Casual Shirt,Clothing,Winter Wear,4304.11
+P00183,Adidas Shoes 64GB,Clothing,Sportswear,4944.26
+P00184,Casual Shirt Black,Clothing,Sportswear,5982.69
+P00185,Casual Shirt Red,Clothing,Kids,3957.2
+P00186,Puma T-Shirt Blue,Clothing,Sportswear,4195.29
+P00187,Puma T-Shirt 512Gb,Clothing,Women,3037.55
+P00188,Track Pants,Clothing,Men,414.85
+P00189,Adidas Shoes Max,Clothing,Footwear,5652.52
+P00190,Puma T-Shirt ,Clothing,Footwear,3992.22
+P00191,LEVIS JEANS MAX,Clothing,Men,2845.87
+P00192,Adidas Shoes Plus,Clothing,Women,566.04
+P00193,Hoodie Max,Clothing,Women,2065.22
+P00194,Levis Jeans 128GB,Clothing,Footwear,1174.69
+P00195,Kurta 128GB,Clothing,Sportswear,3752.16
+P00196,Nike Shoes 128GB,Clothing,Winter Wear,5344.11
+P00197,Levis Jeans Max,Clothing,Footwear,2589.78
+P00198,Levis Jeans,Clothing,Men,3837.71
+P00199,Puma T-Shirt Pro,Clothing,Winter Wear,2299.03
+P00200,Puma T-Shirt 512GB,Clothing,Women,4174.41
+P00201,Nike Shoes White,Clothing,Footwear,1658.01
+P00202,Adidas Shoes,Clothing,Women,1116.66
+P00203,Puma T-Shirt,Clothing,Kids,2630.58
+P00204,Adidas Shoes 128GB,Clothing,Footwear,5245.34
+P00205,Jacket Blue,Clothing,Winter Wear,2838.95
+P00206,Casual Shirt,Clothing,Women,386.15
+P00207,Jacket 256GB,Clothing,Women,5341.17
+P00208,Kurta,Clothing,Winter Wear,5159.02
+P00209,Puma T-Shirt 2026 Edition,Clothing,Men,4434.1
+P00210,Kurta Plus,Clothing,Winter Wear,5409.86
+P00211,Track Pants Pro,Clothing,Sportswear,4963.49
+P00212,Nike Shoes Blue,Clothing,Women,2278.75
+P00213,Formal Shirt Red,Clothing,Sportswear,3585.23
+P00214,Hoodie 2026 Edition,Clothing,Footwear,
+P00215,Hoodie,Clothing,Men,1920.22
+P00216,Kurta,Clothing,Men,3798.64
+P00217,Casual Shirt,Clothing,Kids,2899.05
+P00218,Adidas Shoes 2025 Edition,Clothing,Kids,1584.07
+P00219,Kurta,Clothing,Sportswear,4613.14
+P00220,Hoodie 128GB,Clothing,Footwear,3020.12
+P00221,Track Pants,Clothing,Kids,4839.44
+P00222,Adidas Shoes Red,Clothing,Footwear,5408.09
+P00223,Formal Shirt 256GB,Clothing,Women,3219.99
+P00224,Track Pants,Clothing,Footwear,2774.39
+P00225,Puma T-Shirt,Clothing,Kids,2587.81
+P00226,Kurta Pro,Clothing,Footwear,2856.44
+P00227,Formal Shirt White,Clothing,Men,1060.36
+P00228,Levis Jeans,Clothing,Women,5068.12
+P00229,Puma T-Shirt White,Clothing,Footwear,1710.36
+P00230,Casual Shirt,Clothing,Footwear,3331.23
+P00231,Hoodie,Clothing,Footwear,5581.31
+P00232,Track Pants XL,Clothing,Kids,5823.71
+P00233,Kurta,Clothing,Kids,4197.05
+P00234,Track Pants 64GB,Clothing,Women,2786.64
+P00235,Kurta 2025 Edition,Clothing,Kids,1335.15
+P00236,Adidas Shoes,Clothing,Footwear,2043.0
+P00237,Casual Shirt XL,Clothing,Kids,2439.45
+P00238,Jacket,Clothing,Sportswear,5349.27
+P00239,Levis Jeans,Clothing,Footwear,4425.91
+P00240,Levis Jeans Red,Clothing,Winter Wear,5922.5
+P00241,Adidas Shoes Max,Clothing,Footwear,1214.38
+P00242,Puma T-Shirt Blue,Clothing,Footwear,444.95
+P00243,Track Pants,Clothing,Men,1093.34
+P00244,Adidas Shoes Black,Clothing,Footwear,5459.4
+P00245,JACKET,Clothing,Winter Wear,2986.82
+P00246,Adidas Shoes XL,Clothing,Kids,1144.51
+P00247,Levis Jeans 64GB,Clothing,Footwear,3890.23
+P00248,Adidas Shoes 2025 Edition,Clothing,Men,3672.82
+P00249,Formal Shirt XL,Clothing,Men,3299.64
+P00250,Formal Shirt Red,Clothing,Women,794.02
+P00251,Track Pants 2026 Edition,Clothing,Winter Wear,4332.77
+P00252,Adidas Shoes 256GB,Clothing,Footwear,2219.62
+P00253,Kurta White,Clothing,Kids,366.81
+P00254,Levis Jeans Black,Clothing,Women,5890.44
+P00255,Nike Shoes,Clothing,Men,1338.84
+P00256,JACKET BLACK,Clothing,Sportswear,259.58
+P00257,Kurta,Clothing,Kids,369.7
+P00258,Kurta 256GB,Clothing,Sportswear,3755.15
+P00259,Nike Shoes XL,Clothing,Kids,1196.29
+P00260,Puma T-Shirt,Clothing,Footwear,2325.49
+P00261,Levis Jeans,Clothing,Footwear,1442.79
+P00262,Adidas Shoes Pro,Clothing,Kids,4287.44
+P00263,Adidas Shoes Red,Clothing,Kids,4184.87
+P00264,Hoodie 128GB,Clothing,Footwear,5646.68
+P00265,Adidas Shoes Pro,Clothing,Men,891.46
+P00266,Levis Jeans 512GB,Clothing,Winter Wear,5095.37
+P00267,Jacket XL,Clothing,Winter Wear,1783.24
+P00268,Jacket Blue,Clothing,Winter Wear,1817.57
+P00269, Jacket 256GB,Clothing,Men,3089.18
+P00270,Casual Shirt Plus,Clothing,Men,4034.27
+P00271,Formal Shirt Red,Clothing,Winter Wear,2192.97
+P00272,Nike Shoes,Clothing,Men,2425.05
+P00273,Nike Shoes Max,Clothing,Kids,5331.26
+P00274,Hoodie 128GB,Clothing,Footwear,4028.46
+P00275,Levis Jeans Blue,Clothing,Winter Wear,5831.05
+P00276,CASUAL SHIRT PLUS,Clothing,Kids,4895.41
+P00277,Hoodie White,Clothing,Footwear,2237.36
+P00278,KURTA XL,Clothing,Men,2158.05
+P00279,Hoodie Blue,Clothing,Sportswear,2924.26
+P00280,Casual Shirt 2025 Edition,Clothing,Sportswear,4115.65
+P00281,Casual Shirt Black,Clothing,Footwear,1370.2
+P00282,Track Pants Black,Clothing,Footwear,4866.7
+P00283,Kurta White,Clothing,Winter Wear,4846.88
+P00284,Formal Shirt Black,Clothing,Winter Wear,2017.45
+P00285,Track Pants 64GB,Clothing,Winter Wear,5203.72
+P00286,Jacket Max,Clothing,Winter Wear,5146.09
+P00287,Nike Shoes White,Clothing,Women,1072.74
+P00288,Casual Shirt,Clothing,Sportswear,1380.64
+P00289,Formal Shirt 512GB,Clothing,Men,1069.78
+P00290,Jacket Blue,Clothing,Men,1371.54
+P00291,Sugar 256GB,Grocery,Beverages,1157.27
+P00292,Milk Black,Grocery,Dairy,1078.19
+P00293,Coffee Plus,Grocery,Beverages,635.91
+P00294,Sugar 128GB,Grocery,Beverages,932.37
+P00295,Tea,Grocery,Beverages,226.68
+P00296,Pasta Pro,Grocery,Beverages,393.46
+P00297,Coffee XL,Grocery,Staples,44.87
+P00298,Rice 2025 Edition,Grocery,Staples,672.22
+P00299,Milk 512GB,Grocery,Dairy,29.28
+P00300,Sugar 2026 Edition,Grocery,Staples,268.26
+P00301,Chocolate,Grocery,Beverages,991.37
+P00302,Cooking Oil,Grocery,Beverages,992.79
+P00303,Pasta,Grocery,Staples,554.85
+P00304,Biscuits,Grocery,Dairy,256.09
+P00305,Tea 2025 Edition,Grocery,Snacks,1019.41
+P00306,Biscuits,Grocery,Snacks,831.21
+P00307,Chocolate Blue,Grocery,Personal Care,284.89
+P00308,Tea,Grocery,Snacks,328.9
+P00309,Pasta 128GB,Grocery,Snacks,1137.75
+P00310,Biscuits,Grocery,Snacks,862.01
+P00311,Sugar,Grocery,Dairy,1030.48
+P00312,Tea Blue,Grocery,Beverages,362.43
+P00313,Cooking Oil Max,Grocery,Beverages,573.28
+P00314,Tea,Grocery,Personal Care,322.35
+P00315,Tea White,Grocery,Personal Care,857.29
+P00316,Chocolate Blue,Grocery,Snacks,1162.31
+P00317,Juice White,Grocery,Snacks,125.78
+P00318,Cooking Oil 256GB,Grocery,Staples,902.43
+P00319,Pasta,Grocery,Personal Care,389.35
+P00320,Coffee Max,Grocery,Dairy,82.8
+P00321,Sugar Red,Grocery,Dairy,68.13
+P00322,Biscuits XL,Grocery,Beverages,432.53
+P00323,Juice,Grocery,Personal Care,270.63
+P00324,Coffee 128GB,Grocery,Dairy,818.75
+P00325,Milk Plus,Grocery,Beverages,1007.63
+P00326,Biscuits Black,Grocery,Beverages,408.72
+P00327,PASTA 2026 EDITION,Grocery,Staples,961.81
+P00328,Milk 256GB,Grocery,Dairy,125.24
+P00329,Sugar Max,Grocery,Staples,599.2
+P00330,Pasta Max,Grocery,Staples,624.93
+P00331,Pasta 128GB,Grocery,Staples,744.36
+P00332,Cooking Oil,Grocery,Snacks,1118.19
+P00333,Biscuits 2025 Edition,Grocery,Snacks,1181.34
+P00334,Chocolate 64GB,Grocery,Beverages,625.83
+P00335,Pasta,Grocery,Personal Care,116.49
+P00336,Coffee,Grocery,Beverages,118.28
+P00337,Biscuits,Grocery,Staples,422.77
+P00338,Milk,Grocery,Beverages,531.88
+P00339,Biscuits Blue,Grocery,Personal Care,876.58
+P00340,Chocolate,Grocery,Snacks,36.37
+P00341,Rice Max,Grocery,Snacks,534.23
+P00342,Sugar,Grocery,Dairy,45.74
+P00343,Biscuits 2026 Edition,Grocery,Snacks,257.58
+P00344,Rice 2026 Edition,Grocery,Dairy,1021.37
+P00345,Sugar Blue,Grocery,Personal Care,875.04
+P00346,Tea,Grocery,Dairy,700.16
+P00347,Biscuits Plus,Grocery,Staples,549.02
+P00348,Biscuits 512GB,Grocery,Personal Care,1092.7
+P00349,Biscuits Black,Grocery,Dairy,1152.57
+P00350,Biscuits,Grocery,Personal Care,264.51
+P00351,Coffee Plus,Grocery,Dairy,1132.8
+P00352,Rice Black,Grocery,Snacks,226.16
+P00353,Cooking Oil Plus,Grocery,Personal Care,284.43
+P00354,Rice,Grocery,Snacks,1027.02
+P00355,Rice,Grocery,Dairy,1155.92
+P00356,Pasta,Grocery,Personal Care,69.52
+P00357,Cooking Oil Black,Grocery,Personal Care,608.1
+P00358,Coffee 512GB,Grocery,Dairy,
+P00359,Biscuits Pro,Grocery,Staples,459.47
+P00360,Coffee,Grocery,Snacks,182.83
+P00361,Juice,Grocery,Beverages,542.24
+P00362,Milk White,Grocery,Snacks,532.21
+P00363,Coffee,Grocery,Staples,514.78
+P00364,COOKING OIL,Grocery,Personal Care,740.27
+P00365,Juice Plus,Grocery,Staples,1067.46
+P00366,Sugar Pro,Grocery,Snacks,634.15
+P00367,Sugar 2025 Edition,Grocery,Beverages,52.91
+P00368,Sugar,Grocery,Beverages,883.74
+P00369,Milk Max,Grocery,Dairy,371.59
+P00370,Pasta Max,Grocery,Personal Care,295.93
+P00371,Bed Sheet XL,Home,Kitchen,3425.24
+P00372,LED Lamp XL,Home,Lighting,2733.83
+P00373,LED Lamp Max,Home,Storage,16901.36
+P00374,Wall Clock,Home,Lighting,22031.99
+P00375,LED Lamp,Home,Storage,25939.17
+P00376,Pressure Cooker,Home,Furniture,18167.53
+P00377,Dining Table 128GB,Home,Decor,9306.82
+P00378,Bed Sheet Black,Home,Kitchen,5737.39
+P00379,Sofa,Home,Storage,9498.15
+P00380,Bed Sheet 256GB,Home,Lighting,22921.86
+P00381,Sofa,Home,Lighting,11800.88
+P00382,LED Lamp,Home,Kitchen,21304.1
+P00383,Curtains Max,Home,Kitchen,28668.5
+P00384,Curtains Red,Home,Furniture,3872.41
+P00385,Mixer Grinder XL,Home,Storage,13493.62
+P00386,Dining Table 64GB,Home,Kitchen,12623.61
+P00387,Sofa,Home,Decor,4577.82
+P00388,Wall Clock 64GB,Home,Decor,5689.3
+P00389,Pressure Cooker White,Home,Furniture,1840.78
+P00390,Curtains,Home,Furniture,8297.84
+P00391,Dining Table 512GB,Home,Furniture,8294.04
+P00392,Curtains 256GB,Home,Lighting,13545.67
+P00393,Pressure Cooker 256GB,Home,Storage,28592.6
+P00394,LED Lamp,Home,Kitchen,316.13
+P00395,Wall Clock,Home,Kitchen,17679.23
+P00396,Bed Sheet 128GB,Home,Furniture,24965.79
+P00397,Mixer Grinder 2025 Edition,Home,Decor,19164.55
+P00398,Water Bottle Red,Home,Decor,771.48
+P00399,LED Lamp 64GB,Home,Lighting,16806.98
+P00400,Sofa,Home,Furniture,16297.89
+P00401,Sofa 2026 Edition,Home,Storage,10931.58
+P00402,Dining Table White,Home,Lighting,578.09
+P00403,Water Bottle 2026 Edition,Home,Decor,24309.91
+P00404,Dining Table XL,Home,Kitchen,511.92
+P00405,Office Chair Red,Home,Kitchen,19897.2
+P00406,SOFA XL,Home,Storage,25707.73
+P00407,Dining Table,Home,Storage,18549.36
+P00408,WALL CLOCK MAX,Home,Lighting,25376.94
+P00409,LED Lamp 2025 Edition ,Home,Furniture,8554.61
+P00410,Mixer Grinder Plus,Home,Kitchen,29349.44
+P00411,Pressure Cooker 128GB,Home,Furniture,1127.82
+P00412,Water Bottle,Home,Lighting,7379.27
+P00413,Mixer Grinder,Home,Storage,13324.33
+P00414,Dining Table,Home,Furniture,23544.59
+P00415,Bed Sheet 128GB,Home,Furniture,16909.96
+P00416,Wall Clock Plus,Home,Storage,615.01
+P00417,Bed Sheet Max,Home,Furniture,13786.08
+P00418,Bed Sheet,Home,Kitchen,27159.79
+P00419,LED Lamp,Home,Kitchen,4388.88
+P00420,Curtains,Home,Decor,17634.88
+P00421,Bed Sheet White,Home,Storage,17717.27
+P00422,Curtains,Home,Kitchen,29302.37
+P00423,Mixer Grinder XL,Home,Lighting,18112.94
+P00424,Bed Sheet White,Home,Lighting,26320.33
+P00425,Mixer Grinder Red,Home,Kitchen,14578.16
+P00426,Wall Clock 256GB,Home,Furniture,11075.67
+P00427,Office Chair Max,Home,Decor,1603.97
+P00428,Office Chair,Home,Storage,7605.14
+P00429,Sofa Max,Home,Furniture,10349.98
+P00430,Water Bottle Pro,Home,Storage,26485.41
+P00431,Pressure Cooker,Home,Lighting,20922.31
+P00432,Dining Table,Home,Storage,9037.23
+P00433,Office Chair,Home,Storage,26609.28
+P00434,Bed Sheet Pro,Home,Storage,11415.7
+P00435,Curtains XL,Home,Lighting,8269.56
+P00436,Dining Table 512GB,Home,Kitchen,12058.23
+P00437,Water Bottle 128GB,Home,Furniture,9062.93
+P00438,Curtains Blue,Home,Lighting,12445.9
+P00439,Pressure Cooker Black,Home,Decor,27073.83
+P00440,Sofa,Home,Furniture,3822.06
+P00441,The Alchemist XL,Books,Biography,1283.63
+P00442,IKIGAI,Books,Fiction,1251.23
+P00443,Data Engineering Handbook,Books,Finance,1311.65
+P00444,Python Crash Course 2025 Edition,Books,Self Help,1111.51
+P00445,Python Crash Course XL,Books,Self Help,729.96
+P00446,CLEAN CODE XL,Books,Fiction,415.69
+P00447, Ikigai Plus,Books,Finance,315.17
+P00448,Data Engineering Handbook,Books,Self Help,1472.24
+P00449,Python Crash Course White,Books,Self Help,994.6
+P00450,Clean Code XL,Books,Programming,361.37
+P00451, Python Crash Course Pro,Books,Fiction,825.94
+P00452,Clean Code,Books,Self Help,769.55
+P00453,Clean Code,Books,Biography,1030.71
+P00454,Python Crash Course Max,Books,Finance,110.42
+P00455,Python Crash Course Plus,Books,Self Help,747.77
+P00456,Think and Grow Rich 2026 Edition,Books,Fiction,647.53
+P00457,Clean Code,Books,Self Help,638.53
+P00458,Atomic Habits 2026 Edition,Books,Biography,852.83
+P00459,Python Crash Course,Books,Education,269.72
+P00460,The Alchemist 256GB,Books,Education,162.49
+P00461,Think and Grow Rich XL,Books,Finance,655.34
+P00462,The Alchemist Red,Books,Programming,215.57
+P00463,Think and Grow Rich,Books,Finance,1273.89
+P00464,The Psychology of Money Max,Books,Biography,482.55
+P00465,Ikigai Xl,Books,Biography,1027.56
+P00466,think and grow rich 64gb,Books,Finance,1400.35
+P00467,The Psychology of Money 64GB,Books,Finance,1051.94
+P00468,Clean Code,Books,Programming,1241.87
+P00469,Ikigai Blue,Books,Finance,248.24
+P00470,Atomic Habits Red,Books,Biography,1241.12
+P00471,Python Crash Course 2025 Edition,Books,Programming,1097.54
+P00472,Rich Dad Poor Dad,Books,Biography,1074.84
+P00473,The Alchemist 2025 Edition,Books,Fiction,1469.23
+P00474,Data Engineering Handbook Pro,Books,Finance,804.79
+P00475,Deep Work XL,Books,Finance,967.67
+P00476,Clean Code Max,Books,Self Help,1134.96
+P00477,Atomic Habits Blue,Books,Fiction,1150.77
+P00478,Python Crash Course Max,Books,Biography,1074.79
+P00479,clean code 64gb,Books,Programming,1435.13
+P00480,Clean Code Plus,Books,Finance,430.83
+P00481,Python Crash Course 256GB,Books,Fiction,499.49
+P00482,Think and Grow Rich White,Books,Finance,759.0
+P00483,Clean Code,Books,Programming,1166.7
+P00484,Rich Dad Poor Dad 256GB,Books,Finance,460.21
+P00485,Data Engineering Handbook White,Books,Self Help,374.0
+P00486,Badminton Racket Blue,Sports,Gym,7834.74
+P00487,Cricket Bat,Sports,Outdoor,3456.66
+P00488,Badminton Racket Red,Sports,Gym,14004.99
+P00489,Skipping Rope 2026 Edition,Sports,Cricket,14025.06
+P00490,Gym Gloves Plus,Sports,Football,493.66
+P00491,Helmet,Sports,Cricket,10491.11
+P00492,Yoga Mat Pro,Sports,Cycling,11825.08
+P00493,Football Plus,Sports,Gym,16331.0
+P00494,Yoga Mat 256GB,Sports,Cricket,2163.2
+P00495,Yoga Mat,Sports,Gym,3931.4
+P00496,Football 2026 Edition,Sports,Football,1414.9
+P00497,Helmet Plus,Sports,Football,1826.24
+P00498,Cricket Bat Red,Sports,Cricket,437.75
+P00499,Cricket Bat Pro,Sports,Cycling,12158.95
+P00500,Tennis Ball,Sports,Gym,7573.01
+P00501,Badminton Racket Blue,Sports,Gym,17493.28
+P00502,Helmet,Sports,Football,757.19
+P00503,Skipping Rope Plus,Sports,Cycling,10419.55
+P00504,Badminton Racket White,Sports,Gym,13639.11
+P00505,Football Red,Sports,Cricket,14751.99
+P00506,Cricket Bat 2025 Edition,Sports,Outdoor,19747.59
+P00507,Tennis Ball 512GB,Sports,Football,15126.74
+P00508,Cricket Bat White,Sports,Gym,4602.43
+P00509,Football Pro,Sports,Cycling,2036.22
+P00510,Football Blue,Sports,Cycling,13164.91
+P00511,Skipping Rope 128GB,Sports,Cricket,2010.5
+P00512,Football 256GB,Sports,Cycling,
+P00513,Skipping Rope,Sports,Gym,15482.8
+P00514,Skipping Rope 64GB,Sports,Cycling,6489.54
+P00515,Tennis Ball Black,Sports,Cricket,12077.89
+P00516,Tennis Ball 512GB,Sports,Cycling,1411.55
+P00517,Skipping Rope ,Sports,Cycling,14616.06
+P00518,Gym Gloves,Sports,Gym,8593.14
+P00519,Football Black,Sports,Football,14096.9
+P00520,Cricket Bat,Sports,Cycling,13179.02
+P00521,Gym Gloves 2025 Edition,Sports,Cricket,7403.96
+P00522,Gym Gloves Blue,Sports,Football,18538.21
+P00523,Cricket Bat Pro,Sports,Outdoor,8817.97
+P00524,Football Red,Sports,Outdoor,19102.47
+P00525,Football,Sports,Cycling,5685.52
+P00526,Face Wash Max,Beauty,Haircare,212.83
+P00527,Conditioner Plus,Beauty,Fragrance,4999.78
+P00528,Moisturizer 2026 Edition,Beauty,Haircare,2086.12
+P00529,Hair Serum,Beauty,Skincare,3792.19
+P00530,hair serum 256gb,Beauty,Makeup,702.92
+P00531, Shampoo 2025 Edition,Beauty,Makeup,1881.44
+P00532,Face Wash 64GB,Beauty,Makeup,3329.87
+P00533,Shampoo,Beauty,Haircare,3470.86
+P00534,Lipstick 2026 Edition,Beauty,Haircare,3050.51
+P00535,Shampoo Pro,Beauty,Fragrance,3283.87
+P00536,Conditioner XL,Beauty,Haircare,445.73
+P00537,Lipstick,Beauty,Haircare,2156.46
+P00538,Face Wash,Beauty,Makeup,710.64
+P00539,Conditioner White,Beauty,Haircare,4357.39
+P00540,Lipstick 128GB,Beauty,Skincare,961.08
+P00541,Perfume White,Beauty,Makeup,2802.56
+P00542,Hair Serum White,Beauty,Fragrance,2436.62
+P00543,Lipstick 256GB,Beauty,Makeup,359.04
+P00544,Lipstick Blue,Beauty,Haircare,2250.9
+P00545,Perfume XL,Beauty,Haircare,1595.42
+P00546,Moisturizer,Beauty,Skincare,3676.77
+P00547,Conditioner Red,Beauty,Skincare,4814.62
+P00548,Perfume Max,Beauty,Skincare,2086.81
+P00549,Conditioner Pro,Beauty,Haircare,4971.69
+P00550,Shampoo 64GB,Beauty,Haircare,3405.16
